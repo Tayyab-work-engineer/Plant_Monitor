@@ -7,7 +7,6 @@
 ✅ LED toggles ON/OFF with button press  
 ✅ UART message prints: "LED ON"
 
-This is the first step in building my **Smart Plant Monitor with Adaptive Learning** project. Each folder in this repo represents a milestone in my learning journey.
 
 ## Code Summary
 
