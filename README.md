@@ -26,7 +26,8 @@ Custom UART communication using AVR registers
 
 Categorizes readings into states: Too Low / Optimal / Too High
 
-[Upcoming] Binary search classification
+
+Binary search classification
 
 [Upcoming] Historical pattern matching with stored sensor data
 
